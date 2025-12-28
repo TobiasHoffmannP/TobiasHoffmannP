@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi, I'm Tobias</h1>
 <h3 align="center">I'm a master student in Computer Science. Working on projects in freetime. I mostly work with low(er) level stuff, tries to keep away from frontend :)</h3>
 
